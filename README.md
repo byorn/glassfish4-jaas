@@ -1,0 +1,1 @@
+This is an Example implementation of JAAS with Glassfish 4.1
